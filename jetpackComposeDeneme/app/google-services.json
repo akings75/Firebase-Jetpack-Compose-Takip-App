@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559222206035",
+    "project_id": "jetpackcomposedeneme-b89f7",
+    "storage_bucket": "jetpackcomposedeneme-b89f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559222206035:android:0a5f07f262a41151b0e0a6",
+        "android_client_info": {
+          "package_name": "com.akings.jetpackcomposedeneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559222206035-q5e4ampc6i0u0u5ikj9fi412l3ipjstq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAd6Z_kPmX8a2xUigDYxIzRIpucJl-aBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559222206035-q5e4ampc6i0u0u5ikj9fi412l3ipjstq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
